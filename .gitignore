@@ -1,6 +1,7 @@
 # ignore .NET build artifacts
 bin/
 obj/
+log/
 # ignore Visual Studio Files
 .vs/
 # ignore files
