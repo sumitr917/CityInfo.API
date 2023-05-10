@@ -1,5 +1,5 @@
 namespace CityInfo.API.Services;
-public class CloudMailService
+public class CloudMailService : IMailService
 {
     private readonly string _mailTo = string.Empty;
         private readonly string _mailFrom = string.Empty;
